@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.chowdarychilukuri.in  # submit your host
+REDIS_HOST: redis-dev.chowdarychilukuri.in
+MYSQL_HOST: mysql-dev.chowdarychilukuri.in
+RABBITMQ_HOST: rabbitmq-dev.chowdarychilukuri.in
+CATALOGUE_HOST: catalogue-dev.chowdarychilukuri.in
+USER_HOST: user-dev.chowdarychilukuri.in
+CART_HOST: cart-dev.chowdarychilukuri.in
+SHIPPING_HOST: shipping-dev.chowdarychilukuri.in
+PAYMENT_HOST: payment-dev.chowdarychilukuri.in
+DISPATCH_HOST: dispatch-dev.chowdarychilukuri.in
